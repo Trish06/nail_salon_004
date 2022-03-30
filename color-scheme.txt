@@ -1,0 +1,14 @@
+#dfeaf0
+-Background Color Scheme
+
+#c29c53 
+-Text Color H1
+
+#c9d1d4
+-little darker blue
+
+#cccdc8
+-Darkest
+
+#677c84
+-Grayish silver
